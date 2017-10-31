@@ -1,8 +1,8 @@
 {
-  "name": "insight-api",
-  "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-vtc-api",
+  "description": "A Vertcoin blockchain REST and web socket API service for Vertcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/Cubey2019/insight-vtc-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/bitpay/insight-api/issues"
+    "url": "https://github.com/Cubey2019/insight-vtc-api/issues"
   },
-  "homepage": "https://github.com/bitpay/insight-api",
+  "homepage": "https://github.com/Cubey2019/insight-vtc-api",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "bitcoin api",
+    "vertcoin api",
     "blockchain api",
     "json",
-    "bitcore"
+    "vertcore"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -58,11 +58,11 @@
     "test": "NODE_ENV=test mocha -R spec --recursive"
   },
   "main": "lib",
-  "bitcoreNode": "lib",
+  "vertcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "^0.13.7",
-    "bitcore-message": "^1.0.1",
+    "vertcore-lib": "^0.13.7",
+    "vertcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
