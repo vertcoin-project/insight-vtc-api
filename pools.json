@@ -13,5 +13,12 @@
             "/stratum/",
             "/nodeStratum/"
         ]
+    },
+    {
+        "poolName": "zpool",
+        "url": "https://zpool.ca/",
+        "searchStrings": [
+            "/www.zpool.ca/"
+        ]
     }
 ]
