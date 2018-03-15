@@ -1,0 +1,27 @@
+[
+	{
+		"poolName": "yiimp.eu",
+		"address": "VbnKqcsnXUYn6iPgZc7qb6fXVKd4i3UWM3",
+		"url": "http://yiimp.eu"
+	},
+	{
+		"poolName": "Suprnova.cc",
+		"address": "VwDR2x5AZxvKJejtWKiYhrMiZHr5HPVxZv",
+		"url": "http://vtc.suprnova.cc"
+	},
+	{
+		"poolName": "Zergpool",
+		"address": "VrdN5UoPynUrtYoqWBXsBhN9Hta2pSZaLL",
+		"url": "http://zergpool.com"
+	},
+	{
+		"poolName": "HashRefinery",
+		"address": "VcV8vPAybuTqzZoR9UksM219gRiTHaE3gi",
+		"url": "http://pool.hashrefinery.com"
+	},
+	{
+		"poolName": "Coinotron",
+		"address": "VpYQTF5W927YRNxP9osKTTqH3qi8R2r4sB",
+		"url": "http://coinotron.com"
+	}
+]
