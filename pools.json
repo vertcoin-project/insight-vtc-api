@@ -20,5 +20,12 @@
         "searchStrings": [
             "/www.zpool.ca/"
         ]
+    },
+    {
+        "poolName": "Waterpark",
+        "url": "https://www.waterparkmining.com",
+        "searchStrings": [
+            "Waterpark"
+        ]
     }
 ]
