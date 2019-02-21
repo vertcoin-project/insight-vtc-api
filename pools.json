@@ -56,5 +56,11 @@
             "Vdh79ZUQG9aYnxyejvLcKFopxZfJbxzJUP"
         ]
     },
-
+    {
+        "poolName": "P2Pool",
+        "url": "https://vertcoin.nutty.one",
+        "searchStrings": [
+            "VjqQAcCCYgvkWAWN5KYFLcFaTWiRW1jFNr"
+        ]
+    }
 ]
