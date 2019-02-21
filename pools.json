@@ -1,12 +1,5 @@
 [
     {
-        "poolName": "Mining Pool Hub",
-        "url": "https://vertcoin.miningpoolhub.com",
-        "searchStrings": [
-            "/mph/"
-        ]
-    },
-    {
         "poolName": "Stratum Pool",
         "url": "",
         "searchStrings": [
@@ -20,5 +13,48 @@
         "searchStrings": [
             "/www.zpool.ca/"
         ]
-    }
+    },
+    {
+        "poolName": "BSOD",
+        "url": "https://bsod.pw",
+        "searchStrings": [
+            "3AXJr29rY9LYC2owNjJLv4xEPftnQTNffD"
+        ]
+    },
+    {
+        "poolName": "Easymine",
+        "url": "https://vertcoin.easymine.online/",
+        "searchStrings": [
+            "VnC9r7CtwxJTahHu13JYpJF1DhLYaQqe5y"
+        ]
+    },
+    {
+        "poolName": "Suprnova",
+        "url": "https://vtc.suprnova.cc/",
+        "searchStrings": [
+            "VwDR2x5AZxvKJejtWKiYhrMiZHr5HPVxZv"
+        ]
+    },
+    {
+        "poolName": "MiningPoolHub",
+        "url": "https://vertcoin.miningpoolhub.com/",
+        "searchStrings": [
+            "VqspNKCc3ufsUSJb6Vq2TcEVX1Wn9EdHjP"
+        ]
+    },
+    {
+        "poolName": "Hashalot",
+        "url": "https://hashalot.net",
+        "searchStrings": [
+            "Vxv2Nu9EWWZTcaaDjgVkQEJ8D7F5Gq4FLF"
+        ]
+    },
+    {
+        "poolName": "Coinotron",
+        "url": "https://www.coinotron.com",
+        "searchStrings": [
+            "Vdh79ZUQG9aYnxyejvLcKFopxZfJbxzJUP"
+        ]
+    },
+
 ]
