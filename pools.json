@@ -11,7 +11,7 @@
         "poolName": "zpool",
         "url": "https://zpool.ca/",
         "searchStrings": [
-            "/www.zpool.ca/"
+            "VpHFYXoBnWfQAf4dCsz8TtsbLvyy8He5uh"
         ]
     },
     {
@@ -68,6 +68,55 @@
         "url": "https://labs.f2pool.com/labs",
         "searchStrings": [
             "34HRdE64yHragF67oZx6vs6jsnXNLxsrpQ"
+        ]
+    },
+    {
+        "poolName": "NLPOOL",
+        "url": "https://nlpool.nl",
+        "searchStrings": [
+            "3Mz2anWk7Yom28FxAaCLaZaZjPnJvBjYM4"
+        ]
+    },
+    {
+        "poolName": "ALTpool",
+        "url": "http://solo-vtc.altpool.pro",
+        "searchStrings": [
+            "VsmP3y39xdLinCTrgmRdwNXqoeHmfSoRGg"
+        ]
+    },
+    {
+        "poolName": "Coinfoundry",
+        "url": "https://coinfoundry.org/pool/vtc",
+        "searchStrings": [
+            "VocgaXzpiQafAmHJTrLzbXgRndskNMX2Ug"
+        ]
+    },
+    {
+        "poolName": "Zergpool",
+        "url": "https://zergpool.com/",
+        "searchStrings": [
+            "VwAoUyZXdYteVSz4hJRAfdwbrbgyAmZDSz"
+        ]
+    },
+    {
+        "poolName": "gos.cx",
+        "url": "https://gos.cx/",
+        "searchStrings": [
+            "3DFAA93tjmMq9DmqRX4oiuCqYtwTGo7Tpo"
+        ]
+    },
+    {
+        "poolName": "BitPool Mining",
+        "url": "https://bitpoolmining.com/poolstatsvtc",
+        "searchStrings": [
+            "Vf7aH1rfhszTvPD9CorkJJnubtNo1gtEfY"
+        ]
+    },
+    {
+        "poolName": "fairpool.pro",
+        "url": "https://fairpool.pro/site/coins?coin=VTC",
+        "searchStrings": [
+            "3HVhzZahTQNb36Zwe4MNzUFcHNW7WoFNwU"
         ]
     }
 ]
