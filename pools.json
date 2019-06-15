@@ -90,5 +90,33 @@
         "searchStrings": [
             "VocgaXzpiQafAmHJTrLzbXgRndskNMX2Ug"
         ]
+    },
+    {
+        "poolName": "Zergpool",
+        "url": "https://zergpool.com/",
+        "searchStrings": [
+            "VwAoUyZXdYteVSz4hJRAfdwbrbgyAmZDSz"
+        ]
+    },
+    {
+        "poolName": "gos.cx",
+        "url": "https://gos.cx/",
+        "searchStrings": [
+            "3DFAA93tjmMq9DmqRX4oiuCqYtwTGo7Tpo"
+        ]
+    },
+    {
+        "poolName": "BitPool Mining",
+        "url": "https://bitpoolmining.com/poolstatsvtc",
+        "searchStrings": [
+            "Vf7aH1rfhszTvPD9CorkJJnubtNo1gtEfY"
+        ]
+    },
+    {
+        "poolName": "fairpool.pro",
+        "url": "https://fairpool.pro/site/coins?coin=VTC",
+        "searchStrings": [
+            "3HVhzZahTQNb36Zwe4MNzUFcHNW7WoFNwU"
+        ]
     }
 ]
