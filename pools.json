@@ -62,5 +62,12 @@
         "searchStrings": [
             "VjqQAcCCYgvkWAWN5KYFLcFaTWiRW1jFNr"
         ]
+    },
+    {
+        "poolName": "F2Pool",
+        "url": "https://labs.f2pool.com/labs",
+        "searchStrings": [
+            "34HRdE64yHragF67oZx6vs6jsnXNLxsrpQ"
+        ]
     }
 ]
