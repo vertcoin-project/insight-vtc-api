@@ -11,7 +11,7 @@
         "poolName": "zpool",
         "url": "https://zpool.ca/",
         "searchStrings": [
-            "/www.zpool.ca/"
+            "VpHFYXoBnWfQAf4dCsz8TtsbLvyy8He5uh"
         ]
     },
     {
@@ -68,6 +68,27 @@
         "url": "https://labs.f2pool.com/labs",
         "searchStrings": [
             "34HRdE64yHragF67oZx6vs6jsnXNLxsrpQ"
+        ]
+    },
+    {
+        "poolName": "NLPOOL",
+        "url": "https://nlpool.nl",
+        "searchStrings": [
+            "3Mz2anWk7Yom28FxAaCLaZaZjPnJvBjYM4"
+        ]
+    },
+    {
+        "poolName": "ALTpool",
+        "url": "http://solo-vtc.altpool.pro",
+        "searchStrings": [
+            "VsmP3y39xdLinCTrgmRdwNXqoeHmfSoRGg"
+        ]
+    },
+    {
+        "poolName": "Coinfoundry",
+        "url": "https://coinfoundry.org/pool/vtc",
+        "searchStrings": [
+            "VocgaXzpiQafAmHJTrLzbXgRndskNMX2Ug"
         ]
     }
 ]
