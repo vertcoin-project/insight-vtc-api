@@ -1,13 +1,5 @@
 [
     {
-        "poolName": "Stratum Pool",
-        "url": "",
-        "searchStrings": [
-            "/stratum/",
-            "/nodeStratum/"
-        ]
-    },
-    {
         "poolName": "zpool",
         "url": "https://zpool.ca/",
         "searchStrings": [
